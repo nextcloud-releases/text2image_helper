@@ -1,4 +1,4 @@
-Do not push any code to this repository. 
+Do not push any code to this repository.
 
 # How to publish
 1. On https://github.com/nextcloud, tag appropriate commit on the source repository
